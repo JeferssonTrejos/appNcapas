@@ -1,0 +1,6 @@
+C:\Users\Jefersson\source\repos\appNcapas\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\Jefersson\source\repos\appNcapas\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\Jefersson\source\repos\appNcapas\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\Jefersson\source\repos\appNcapas\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jefersson\source\repos\appNcapas\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\Jefersson\source\repos\appNcapas\capaDatos\obj\Debug\capaDatos.pdb

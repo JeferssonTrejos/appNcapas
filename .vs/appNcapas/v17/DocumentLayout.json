@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jefersson\\source\\repos\\appNcapas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF6451B-AC8A-4474-B0E4-9D46DC1BB25B}|capaPresentacion\\capaPresentacion.csproj|c:\\users\\jefersson\\source\\repos\\appncapas\\capapresentacion\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5FF6451B-AC8A-4474-B0E4-9D46DC1BB25B}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF6451B-AC8A-4474-B0E4-9D46DC1BB25B}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\Jefersson\\source\\repos\\appNcapas\\capapresentacion\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF6451B-AC8A-4474-B0E4-9D46DC1BB25B}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF6451B-AC8A-4474-B0E4-9D46DC1BB25B}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\Jefersson\\source\\repos\\appNcapas\\capapresentacion\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5FF6451B-AC8A-4474-B0E4-9D46DC1BB25B}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0D414F-BA04-45A3-B461-9827C15B6758}|capaDatos\\capaDatos.csproj|c:\\users\\jefersson\\source\\repos\\appncapas\\capadatos\\cdpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0D414F-BA04-45A3-B461-9827C15B6758}|capaDatos\\capaDatos.csproj|solutionrelative:capadatos\\cdpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0D414F-BA04-45A3-B461-9827C15B6758}|capaDatos\\capaDatos.csproj|c:\\users\\jefersson\\source\\repos\\appncapas\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0D414F-BA04-45A3-B461-9827C15B6758}|capaDatos\\capaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAB344C-53F8-4EAF-A116-8B6E22CD3154}|capaNegocio\\capaNegocio.csproj|C:\\Users\\Jefersson\\source\\repos\\appNcapas\\capanegocio\\cnpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAB344C-53F8-4EAF-A116-8B6E22CD3154}|capaNegocio\\capaNegocio.csproj|solutionrelative:capanegocio\\cnpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal.aspx",
+              "DocumentMoniker": "C:\\Users\\Jefersson\\source\\repos\\appNcapas\\capaPresentacion\\Principal.aspx",
+              "RelativeDocumentMoniker": "capaPresentacion\\Principal.aspx",
+              "ToolTip": "C:\\Users\\Jefersson\\source\\repos\\appNcapas\\capaPresentacion\\Principal.aspx",
+              "RelativeToolTip": "capaPresentacion\\Principal.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-28T03:21:09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Jefersson\\source\\repos\\appNcapas\\capaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "capaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Jefersson\\source\\repos\\appNcapas\\capaDatos\\Conexion.cs",
+              "RelativeToolTip": "capaDatos\\Conexion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T03:11:20.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jefersson\\source\\repos\\appNcapas\\capaPresentacion\\index.aspx.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\index.aspx.cs",
+              "ToolTip": "C:\\Users\\Jefersson\\source\\repos\\appNcapas\\capaPresentacion\\index.aspx.cs",
+              "RelativeToolTip": "capaPresentacion\\index.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T00:06:05.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.aspx",
+              "DocumentMoniker": "C:\\Users\\Jefersson\\source\\repos\\appNcapas\\capaPresentacion\\index.aspx",
+              "RelativeDocumentMoniker": "capaPresentacion\\index.aspx",
+              "ToolTip": "C:\\Users\\Jefersson\\source\\repos\\appNcapas\\capaPresentacion\\index.aspx",
+              "RelativeToolTip": "capaPresentacion\\index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-27T23:50:47.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CNPersonas.cs",
+              "DocumentMoniker": "C:\\Users\\Jefersson\\source\\repos\\appNcapas\\capaNegocio\\CNPersonas.cs",
+              "RelativeDocumentMoniker": "capaNegocio\\CNPersonas.cs",
+              "ToolTip": "C:\\Users\\Jefersson\\source\\repos\\appNcapas\\capaNegocio\\CNPersonas.cs",
+              "RelativeToolTip": "capaNegocio\\CNPersonas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T23:39:13.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CDPersonas.cs",
+              "DocumentMoniker": "C:\\Users\\Jefersson\\source\\repos\\appNcapas\\capaDatos\\CDPersonas.cs",
+              "RelativeDocumentMoniker": "capaDatos\\CDPersonas.cs",
+              "ToolTip": "C:\\Users\\Jefersson\\source\\repos\\appNcapas\\capaDatos\\CDPersonas.cs",
+              "RelativeToolTip": "capaDatos\\CDPersonas.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T23:30:43.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

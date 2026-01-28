@@ -1,0 +1,9 @@
+C:\Users\Jefersson\source\repos\appNcapas\capaNegocio\obj\Debug\capaNegocio.csproj.AssemblyReference.cache
+C:\Users\Jefersson\source\repos\appNcapas\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jefersson\source\repos\appNcapas\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\Jefersson\source\repos\appNcapas\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\Jefersson\source\repos\appNcapas\capaNegocio\bin\Debug\capaDatos.dll
+C:\Users\Jefersson\source\repos\appNcapas\capaNegocio\bin\Debug\capaDatos.pdb
+C:\Users\Jefersson\source\repos\appNcapas\capaNegocio\obj\Debug\capaNego.836DF9B9.Up2Date
+C:\Users\Jefersson\source\repos\appNcapas\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\Jefersson\source\repos\appNcapas\capaNegocio\obj\Debug\capaNegocio.pdb
