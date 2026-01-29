@@ -13,9 +13,11 @@
     <body>
         <div class="card">
             <h1>Bienvenido</h1>
-            <h3>User: <asp:Label ID="lblUsuario" runat="server" Text="Label"></asp:Label> </h3>
+            <h3>User: <asp:Label ID="lblUsuario" runat="server" Text=""></asp:Label> </h3>
             
-            <asp:Button ID="out" runat="server" Text="Cerrar Sesion" OnClick="out_Click" />
+            <form id="form_logout" runat="server">
+                <asp:Button ID="Button1" runat="server" Text="Cerrar Sesion" OnClick="out_Click"/>
+            </form> 
         </div>
     </body>
 
